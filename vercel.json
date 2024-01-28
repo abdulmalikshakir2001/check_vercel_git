@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/(.*)", "destination": "https://check-vercel-git.vercel.app/$1" }
+    ]
+  }
